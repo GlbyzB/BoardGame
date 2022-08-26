@@ -1,2 +1,2 @@
 # BoardGame
-A basic Board Game
+A two players Board Game
